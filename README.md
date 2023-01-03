@@ -13,7 +13,7 @@ cd Linux\ 64\ bit/Genealogical\ DNA\ Analysis\ Tool/
 ```
 - Make the binary executable.
 ```bash
-chmod +x cd Genealogical\ DNA\ Analysis\ Tool/
+chmod +x Genealogical\ DNA\ Analysis\ Tool/
 ```
 - Create a Softlink to easily run the executable from the terminal.
 ```bash
