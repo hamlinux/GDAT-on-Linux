@@ -24,5 +24,5 @@ ln -s /home/$USER/.local/bin/Linux\ 64\ bit/Genealogical\ DNA\ Analysis\ Tool/Ge
 gdat &
 ```
 
-Simply changing the name of the binary will result in an error.
-Tested on Debian 11.3 Stable requiring no additional dependencies.
+- Simply changing the name of the binary will result in an error.
+- Tested on Debian 11.3 Stable requiring no additional dependencies.
