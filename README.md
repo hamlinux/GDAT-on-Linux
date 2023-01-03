@@ -1,9 +1,9 @@
 # GDAT-on-Linux
 My description of the steps to get the Genealogical DNA Analysis Tool (GDAT) working on Linux
 
-- Download the ZIP file for your distributions architecture.
-- Navigate to your Downloads directory.
-- Extract the file using your preferred archiving tool into your PATH.
+- Download the ZIP file for your distribution's architecture. ex. "64 bit"
+- In a terminal navigate to your "Downloads" directory.
+- Extract the file using your preferred archiving tool into your PATH. ex. unzip
 ```bash
 unzip 'Linux 64 bit.zip' /home/$USER/.local/bin
 ```
