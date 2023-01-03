@@ -9,7 +9,7 @@ unzip 'Linux 64 bit.zip' /home/$USER/.local/bin
 ```
 - Navigate to the binary.
 ```bash
-cd Linux\ 64\ bit/Genealogical\ DNA\ Analysis\ Tool/
+cd /home/$USER/.local/bin/Linux\ 64\ bit/Genealogical\ DNA\ Analysis\ Tool/
 ```
 - Make the binary executable.
 ```bash
